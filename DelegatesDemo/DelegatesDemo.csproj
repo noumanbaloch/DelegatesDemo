@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnonymousMethods.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="GenericDelegates.cs" />
+    <Compile Include="MultiCastingDelegates.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

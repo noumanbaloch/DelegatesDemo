@@ -10,6 +10,10 @@ namespace DelegatesDemo
     {
         static void Main(string[] args)
         {
+            //Delegates.Del();
+            //MultiCastingDelegates.MultiCaastingDel();
+            //AnonymousMethods.AnonymouseDel();
+            GenericDelegates.GenericDel();
         }
     }
 }
